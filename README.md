@@ -4,5 +4,5 @@
 <p>  Author: Edgar Vasquez 1098586</p>
 
 ## Docs(Index)
-### [questionnaire](https://github.com/EdgarVasquez/NumerosRomanos/blob/main/questionnaire.md)
-### [Requirements and test cases](https://github.com/EdgarVasquez/NumerosRomanos/blob/main/Requirements%20and%20test%20cases.md)
+### [questionnaire](https://github.com/EdgarVasquez/NumerosRomanos/blob/main/Docs/questionnaire.md)
+### [Requirements and test cases](https://github.com/EdgarVasquez/NumerosRomanos/blob/main/Docs/Requirements%20and%20test%20cases.md)
