@@ -1,7 +1,7 @@
 # Algebraic numbers To Roman Numbers
 
 ## Requirements
-<p> R1. The system will allow a maximum number of 5000 to be entered.</p>
+<p> R1. The system will allow a maximum number of 1000 to be entered.</p>
 <p> R2. The system will not allow negative number.</p>
 <p> R3. The system will allow decimal number.</p>
  <p> R4. The system will not allow letter.</p>
@@ -24,10 +24,12 @@
 <p> TC 2. the roman numeral shown at the end must be between parentheses</p>
 ### Unit Test
 <p> TC 3. A letter is entered</p>
-<p>  **system response** "only positive numbers are allowed"</p>
-<p> TC 4. A blank space is entered</p>
-<p> **system response** "only positive numbers are allowed"</p>
+<p>  **system response** "only positive numbers or decimal with "."  are allowed"</p>
+<p> TC 4. A negative number is entered</p>
+<p> **system response** "only positive numbers or decimal with "."  are allowed"</p>
 <p> TC 5. A blank space is entered</p>
-<p>  **system response** "only positive numbers are allowed"</p>
+<p>  **system response** "only positive numbers or decimal with "." are allowed"</p>
 <p> TC 6. enter a number greater than 1000</p>
 <p>  **system response** "the number must be between 1 and 1000"</p>
+<p> TC 7. enter a decimal with separator other than " . " </p>
+<p>  **system response** "only positive numbers or decimal with "." are allowed"."</p>
